@@ -28,7 +28,7 @@ This project presents an in-depth analysis of a phishing email impersonating Ama
 
 ---
 
-  3. <br><img width="616" height="686" alt="image" src="https://github.com/user-attachments/assets/a100ca49-c5ad-4579-b61a-1f26cbdedce5" />
+  3. after hovering over the button <br><img width="616" height="686" alt="image" src="https://github.com/user-attachments/assets/a100ca49-c5ad-4579-b61a-1f26cbdedce5" />
 
 ---
 
